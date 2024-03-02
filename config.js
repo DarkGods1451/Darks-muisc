@@ -1,10 +1,10 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTEyMzcxNjQ0OTQ1NDc4ODcyOQ.GbabR9.GVG5mnSI1XWUn5tsBxnSPj-1g9PHqCdcwwg6F4",
+  ownerID: ["415224482773598208", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'DarkGods',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
